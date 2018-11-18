@@ -9,8 +9,12 @@
     "react-redux": "^5.1.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
+<<<<<<< HEAD
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
+=======
+    "redux": "^4.0.1"
+>>>>>>> aa8143f38d3641d2751f571b6e1f3261ad2c1e10
   },
   "scripts": {
     "start": "react-scripts start",
